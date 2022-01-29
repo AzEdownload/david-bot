@@ -172,4 +172,4 @@ if(msg.content.startsWith('.unmute'))
 
 	
 
-client.login("OTM1OTU4ODY4NDQ4NjY5NzA3.YfGNnw.zE4IK448o7v1UGGtX_1tHZmwCoI")
+client.login("OTM1OTU4ODY4NDQ4NjY5NzA3.YfGNnw.RO0yn5Cqb26pA7BDgYwwYTCXiIo")
